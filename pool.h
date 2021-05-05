@@ -2,8 +2,6 @@
 
 #include <stdbool.h>
 
-// SEASHELL_READONLY
-
 struct pool;
 
 // The following applies to all functions
@@ -11,8 +9,6 @@ struct pool;
 //           all sizes (e.g., size) are greater than zero
 // time: (n) is the number of "active" allocations, which is the number
 //       of successful allocs that have not been freed
-
-// SEE ASSIGNMENT TEXT for the behaviour rules of pool_alloc and pool_realloc
 
 // pool_create() creates a new pool of size characters
 // effects: allocates memory (caller must call pool_destroy)
