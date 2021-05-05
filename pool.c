@@ -1,18 +1,3 @@
-///////////////////////////////////////////////////////////////////////////// 
-// INTEGRITY STATEMENT (v3)
-//
-// By signing your name and ID below you are stating that you have agreed
-// to the online academic integrity statement:
-// https://student.cs.uwaterloo.ca/~cs136/current/assignments/integrity.shtml
-/////////////////////////////////////////////////////////////////////////////
-// I received help from and/or collaborated with: 
- 
-// No one
-//  
-// Name: Rainbow Li 
-// login ID: r438li
-///////////////////////////////////////////////////////////////////////////// 
-
 #include <assert.h>
 #include <stdio.h>
 #include <stdlib.h>
